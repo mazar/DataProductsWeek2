@@ -3,7 +3,6 @@ title: "Data Products Week 2"
 author: "Massoud Mazar"
 date: "September 24, 2017"
 output: html_document
-runtime: shiny
 ---
 
 ```{r setup, include=FALSE}
